@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MADT_2_Lab_WordCounter</string>
+    <string name="btn_input_name">Calulate</string>
+    <string-array name="selection_options_array">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
